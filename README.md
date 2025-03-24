@@ -15,5 +15,4 @@
 ##This Java program enables users to perform basic file operations interactively. It allows writing user-provided text to a file, reading and displaying the content, and modifying specific words based on user input. The program uses Scanner for input handling and BufferedReader/BufferedWriter for file operations. It ensures efficient manipulation of text files with proper exception handling. Users can enter content, specify words to replace, and view updates dynamically. The implementation follows a structured approach with modular methods for writing, reading, and modifying files, making it a practical example of file handling in Java. 
 
 *OUTPUT*:
-
-![Image](https://github.com/user-attachments/assets/c0673746-f6ce-4ea6-931b-29c14a267791)
+![Image](https://github.com/user-attachments/assets/93f75f79-495e-4897-9159-49c5333133ed)
